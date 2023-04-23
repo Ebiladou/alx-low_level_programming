@@ -1,8 +1,7 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
- * Main - Entry point
+ * main - Prints a sentence.
  *
  * Return: Always 0 (Success)
  */

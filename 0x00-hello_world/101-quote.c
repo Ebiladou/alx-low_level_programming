@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * Main -Entry point
+ * main - prints a sentence.
  *
  * Return: Always 1.
  */
